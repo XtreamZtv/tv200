@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:0 channelID="x-ID.0" tvg-chno="2" tvg-name="WMAR-HD" tvg-id="2" tvg-logo="" group-title="HDHomeRUN",WMAR-HD
+http://sonictv.playsupport.live/stream/244ab8e60e9e3215cbf061600cca82aa
+#EXTINF:0 channelID="x-ID.7" tvg-chno="4" tvg-name="WRC-HD" tvg-id="4" tvg-logo="" group-title="HDHomeRUN",WRC-HD
+http://sonictv.playsupport.live/stream/4cbe355a306cedf4cdde46206c8c336c
+#EXTINF:0 channelID="x-ID.11" tvg-chno="5" tvg-name="WTTG-DT" tvg-id="5" tvg-logo="" group-title="HDHomeRUN",WTTG-DT
+http://sonictv.playsupport.live/stream/6e952e6e3d0d49b2006129866cb0c5fb
+#EXTINF:0 channelID="x-ID.14" tvg-chno="7" tvg-name="WJLA" tvg-id="7" tvg-logo="" group-title="HDHomeRUN",WJLA
+http://sonictv.playsupport.live/stream/3b60e45584a5d69210107f076d885b93
+#EXTINF:0 channelID="x-ID.18" tvg-chno="9" tvg-name="WUSA-HD" tvg-id="9" tvg-logo="" group-title="HDHomeRUN",WUSA-HD
+http://sonictv.playsupport.live/stream/ae2e386db4c0c458d134727ab4b7ec3d
+#EXTINF:0 channelID="x-ID.1" tvg-chno="10" tvg-name="GRIT" tvg-id="10" tvg-logo="" group-title="HDHomeRUN",GRIT
+http://sonictv.playsupport.live/stream/329c4c02b1a5ebe910a62b5d9711d7f0
+#EXTINF:0 channelID="x-ID.2" tvg-chno="11" tvg-name="BOUNCE" tvg-id="11" tvg-logo="" group-title="HDHomeRUN",BOUNCE
+http://sonictv.playsupport.live/stream/a838ce7f0d1795e952a1c8da66f01266
+#EXTINF:0 channelID="x-ID.3" tvg-chno="12" tvg-name="MYSTERY" tvg-id="12" tvg-logo="" group-title="HDHomeRUN",MYSTERY
+http://sonictv.playsupport.live/stream/93163288c3878498e7652ce626b85781
+#EXTINF:0 channelID="x-ID.4" tvg-chno="14" tvg-name="ION TV" tvg-id="14" tvg-logo="" group-title="HDHomeRUN",ION TV
+http://sonictv.playsupport.live/stream/1729144d19580cd9f7c52958b18c9bf8
+#EXTINF:0 channelID="x-ID.5" tvg-chno="16" tvg-name="CourtTV" tvg-id="16" tvg-logo="" group-title="HDHomeRUN",CourtTV
+http://sonictv.playsupport.live/stream/23d19454e58e34993e4da41b80510c12
+#EXTINF:0 channelID="x-ID.6" tvg-chno="18" tvg-name="Newsy" tvg-id="18" tvg-logo="" group-title="HDHomeRUN",Newsy
+http://sonictv.playsupport.live/stream/85615bdf1ef588b504fdd1a3fa1f6132
+#EXTINF:0 channelID="x-ID.8" tvg-chno="20" tvg-name="COZI" tvg-id="20" tvg-logo="" group-title="HDHomeRUN",COZI
+http://sonictv.playsupport.live/stream/3efe9dd8d9cccceaaf6f8a02d482217a
+#EXTINF:0 channelID="x-ID.9" tvg-chno="22" tvg-name="LX" tvg-id="22" tvg-logo="" group-title="HDHomeRUN",LX
+http://sonictv.playsupport.live/stream/914585615a9ff9521cc211225072b77a
+#EXTINF:0 channelID="x-ID.10" tvg-chno="24" tvg-name="Oxygen" tvg-id="24" tvg-logo="" group-title="HDHomeRUN",Oxygen
+http://sonictv.playsupport.live/stream/9baeba7439090b3e7b75e15ab9f31bee
+#EXTINF:0 channelID="x-ID.12" tvg-chno="26" tvg-name="BUZZR" tvg-id="26" tvg-logo="" group-title="HDHomeRUN",BUZZR
+http://sonictv.playsupport.live/stream/5e1d3ab74c9960108bc96ce57b9206fe
+#EXTINF:0 channelID="x-ID.13" tvg-chno="28" tvg-name="START" tvg-id="28" tvg-logo="" group-title="HDHomeRUN",START
+http://sonictv.playsupport.live/stream/7aa9a4d41e9df9fccd8a2b79a05e7a42
+#EXTINF:0 channelID="x-ID.15" tvg-chno="30" tvg-name="Charge!" tvg-id="30" tvg-logo="" group-title="HDHomeRUN",Charge!
+http://sonictv.playsupport.live/stream/bdb2865234e90ca7ccb95930220acbd2
+#EXTINF:0 channelID="x-ID.16" tvg-chno="32" tvg-name="Comet" tvg-id="32" tvg-logo="" group-title="HDHomeRUN",Comet
+http://sonictv.playsupport.live/stream/4370acab5a0f9e0a326fa32eebe56ab1
+#EXTINF:0 channelID="x-ID.17" tvg-chno="34" tvg-name="TBD" tvg-id="34" tvg-logo="" group-title="HDHomeRUN",TBD
+http://sonictv.playsupport.live/stream/d7159c2319f97f4fb9ae6a3c5527b102
+#EXTINF:0 channelID="x-ID.19" tvg-chno="36" tvg-name="Crime" tvg-id="36" tvg-logo="" group-title="HDHomeRUN",Crime
+http://sonictv.playsupport.live/stream/2d07cb054f9dd88bd24359c7cbfdd303
+#EXTINF:0 channelID="x-ID.20" tvg-chno="38" tvg-name="Quest" tvg-id="38" tvg-logo="" group-title="HDHomeRUN",Quest
+http://sonictv.playsupport.live/stream/db4a88de1f7cd1de864d9e74eb9422a8
+#EXTINF:0 channelID="x-ID.21" tvg-chno="40" tvg-name="Twist" tvg-id="40" tvg-logo="" group-title="HDHomeRUN",Twist
+http://sonictv.playsupport.live/stream/c926f248cf9171b94a805bbfadf9adc1
+#EXTINF:0 channelID="x-ID.22" tvg-chno="42" tvg-name="QVC" tvg-id="42" tvg-logo="" group-title="HDHomeRUN",QVC
+http://sonictv.playsupport.live/stream/5e5117e769c72f518754ca0fc54d22ba
+#EXTINF:0 channelID="x-ID.23" tvg-chno="44" tvg-name="WDCO" tvg-id="44" tvg-logo="" group-title="HDHomeRUN",WDCO
+http://sonictv.playsupport.live/stream/1df733fcc85356d6a277305a09c83452
+#EXTINF:0 channelID="x-ID.24" tvg-chno="46" tvg-name="WBAL-DT" tvg-id="46" tvg-logo="" group-title="HDHomeRUN",WBAL-DT
+http://sonictv.playsupport.live/stream/90c75b474e2f9d9697c0bc3fd4d2729e
+#EXTINF:0 channelID="x-ID.25" tvg-chno="48" tvg-name="MeTV" tvg-id="48" tvg-logo="" group-title="HDHomeRUN",MeTV
+http://sonictv.playsupport.live/stream/2e49f5892ba423470c1fddf2d104c3a2
+#EXTINF:0 channelID="x-ID.26" tvg-chno="50" tvg-name="Story" tvg-id="50" tvg-logo="" group-title="HDHomeRUN",Story
+http://sonictv.playsupport.live/stream/6c5d1a4ec9019403786c679e74036f9c
+#EXTINF:0 channelID="x-ID.27" tvg-chno="52" tvg-name="TheGrio" tvg-id="52" tvg-logo="" group-title="HDHomeRUN",TheGrio
+http://sonictv.playsupport.live/stream/8bcbd601cb19216d4a17b2cfc8465e94
+#EXTINF:0 channelID="x-ID.28" tvg-chno="54" tvg-name="QVC" tvg-id="54" tvg-logo="" group-title="HDHomeRUN",QVC
+http://sonictv.playsupport.live/stream/5e5117e769c72f518754ca0fc54d22ba
+#EXTINF:0 channelID="x-ID.29" tvg-chno="56" tvg-name="WJZ-TV" tvg-id="56" tvg-logo="" group-title="HDHomeRUN",WJZ-TV
+http://sonictv.playsupport.live/stream/499e640ada0a69e8dceb9237c950dec0
+#EXTINF:0 channelID="x-ID.30" tvg-chno="58" tvg-name="StartTV" tvg-id="58" tvg-logo="" group-title="HDHomeRUN",StartTV
+http://sonictv.playsupport.live/stream/e37895bd3761c0d91ff69ad8e0d35a48
+#EXTINF:0 channelID="x-ID.31" tvg-chno="60" tvg-name="Dabl" tvg-id="60" tvg-logo="" group-title="HDHomeRUN",Dabl
+http://sonictv.playsupport.live/stream/9b29e191a9b869d6cc0c2e77c0a4df4f
+#EXTINF:0 channelID="x-ID.32" tvg-chno="62" tvg-name="FaveTV" tvg-id="62" tvg-logo="" group-title="HDHomeRUN",FaveTV
+http://sonictv.playsupport.live/stream/a14a6c80600661a5748eba5b06837eef
+#EXTINF:0 channelID="x-ID.33" tvg-chno="64" tvg-name="Catchy" tvg-id="64" tvg-logo="" group-title="HDHomeRUN",Catchy
+http://sonictv.playsupport.live/stream/18dd9280e4d2e011eb8fc88ad959323c
+#EXTINF:0 channelID="x-ID.34" tvg-chno="66" tvg-name="Movies" tvg-id="66" tvg-logo="" group-title="HDHomeRUN",Movies
+http://sonictv.playsupport.live/stream/3da6b78234e5060686c5031ed927d9c8
+#EXTINF:0 channelID="x-ID.35" tvg-chno="68" tvg-name="WFDC-DT" tvg-id="68" tvg-logo="" group-title="HDHomeRUN",WFDC-DT
+http://sonictv.playsupport.live/stream/bcdb9dde85366c8038f1c4343d629d0e
+#EXTINF:0 channelID="x-ID.36" tvg-chno="70" tvg-name="getTV" tvg-id="70" tvg-logo="" group-title="HDHomeRUN",getTV
+http://sonictv.playsupport.live/stream/4ef8627bbc73c67533aeda8c1523e0ec
+#EXTINF:0 channelID="x-ID.37" tvg-chno="72" tvg-name="GRIT" tvg-id="72" tvg-logo="" group-title="HDHomeRUN",GRIT
+http://sonictv.playsupport.live/stream/329c4c02b1a5ebe910a62b5d9711d7f0
+#EXTINF:0 channelID="x-ID.38" tvg-chno="74" tvg-name="UniMas" tvg-id="74" tvg-logo="" group-title="HDHomeRUN",UniMas
+http://sonictv.playsupport.live/stream/3d3fc5b654f2932a2ad2a862c1d20111
+#EXTINF:0 channelID="x-ID.39" tvg-chno="76" tvg-name="WDCA" tvg-id="76" tvg-logo="" group-title="HDHomeRUN",WDCA
+http://sonictv.playsupport.live/stream/fe9f40cc03ae583c76edd7e254a8a5f0
+#EXTINF:0 channelID="x-ID.40" tvg-chno="78" tvg-name="MOVIES" tvg-id="78" tvg-logo="" group-title="HDHomeRUN",MOVIES
+http://sonictv.playsupport.live/stream/307b006667b1237b1bf550cf7a2fc54d
+#EXTINF:0 channelID="x-ID.41" tvg-chno="80" tvg-name="HEROES" tvg-id="80" tvg-logo="" group-title="HDHomeRUN",HEROES
+http://sonictv.playsupport.live/stream/ad629dd959291823d237de346a5f3265
+#EXTINF:0 channelID="x-ID.42" tvg-chno="82" tvg-name="FOXWX" tvg-id="82" tvg-logo="" group-title="HDHomeRUN",FOXWX
+http://sonictv.playsupport.live/stream/94da9f209042fed1b06a215c892f43f3
+#EXTINF:0 channelID="x-ID.43" tvg-chno="84" tvg-name="MPT-HD" tvg-id="84" tvg-logo="" group-title="HDHomeRUN",MPT-HD
+http://sonictv.playsupport.live/stream/234dc54d1ae9147715f363d394802970
+#EXTINF:0 channelID="x-ID.44" tvg-chno="86" tvg-name="MPT-2" tvg-id="86" tvg-logo="" group-title="HDHomeRUN",MPT-2
+http://sonictv.playsupport.live/stream/92c6c5d539d8541173f9d1bafdb29c1a
+#EXTINF:0 channelID="x-ID.45" tvg-chno="88" tvg-name="MPTKIDS" tvg-id="88" tvg-logo="" group-title="HDHomeRUN",MPTKIDS
+http://sonictv.playsupport.live/stream/042380e9112cc86d21564ce35085f25f
+#EXTINF:0 channelID="x-ID.46" tvg-chno="90" tvg-name="NHK-WLD" tvg-id="90" tvg-logo="" group-title="HDHomeRUN",NHK-WLD
+http://sonictv.playsupport.live/stream/28725024a6a634263a3922fdf389b23b
+#EXTINF:0 channelID="x-ID.47" tvg-chno="1047" tvg-name="Daystar" tvg-id="1047" tvg-logo="" group-title="HDHomeRUN",Daystar
+http://sonictv.playsupport.live/stream/e62df96a8d05fa2edb05bce05462af34
+#EXTINF:0 channelID="x-ID.48" tvg-chno="1048" tvg-name="Espanol" tvg-id="1048" tvg-logo="" group-title="HDHomeRUN",Espanol
+http://sonictv.playsupport.live/stream/594513d873fb76d6c0c6acde9278234c
+#EXTINF:0 channelID="x-ID.49" tvg-chno="1049" tvg-name="Reflect" tvg-id="1049" tvg-logo="" group-title="HDHomeRUN",Reflect
+http://sonictv.playsupport.live/stream/e4574def44381e58ae92410e2885653c
+#EXTINF:0 channelID="x-ID.50" tvg-chno="1050" tvg-name="WUTB" tvg-id="1050" tvg-logo="" group-title="HDHomeRUN",WUTB
+http://sonictv.playsupport.live/stream/5e979ebee5c2905c3d4be5d0a903a80e
+#EXTINF:0 channelID="x-ID.51" tvg-chno="1051" tvg-name="WDVM-SD" tvg-id="1051" tvg-logo="" group-title="HDHomeRUN",WDVM-SD
+http://sonictv.playsupport.live/stream/713ba04f05458ef820d1f2fb24aeda0a
+#EXTINF:0 channelID="x-ID.52" tvg-chno="1052" tvg-name="WETA-HD" tvg-id="1052" tvg-logo="" group-title="HDHomeRUN",WETA-HD
+http://sonictv.playsupport.live/stream/ae3708fe99f98bd31e1607e6bbc5c94e
+#EXTINF:0 channelID="x-ID.53" tvg-chno="1053" tvg-name="WETA UK" tvg-id="1053" tvg-logo="" group-title="HDHomeRUN",WETA UK
+http://sonictv.playsupport.live/stream/c2b388c5bbd3a2be602c16e3b663d6b3
+#EXTINF:0 channelID="x-ID.54" tvg-chno="1054" tvg-name="KIDS" tvg-id="1054" tvg-logo="" group-title="HDHomeRUN",KIDS
+http://sonictv.playsupport.live/stream/2ab954e063cbc574a38816bbb059c6eb
+#EXTINF:0 channelID="x-ID.55" tvg-chno="1055" tvg-name="WORLD" tvg-id="1055" tvg-logo="" group-title="HDHomeRUN",WORLD
+http://sonictv.playsupport.live/stream/600e88bf5c1e68c4f69d4eb12a98f6b7
+#EXTINF:0 channelID="x-ID.56" tvg-chno="1056" tvg-name="METRO" tvg-id="1056" tvg-logo="" group-title="HDHomeRUN",METRO
+http://sonictv.playsupport.live/stream/64f1b6915234031a70c8e3e373c2a67a
+#EXTINF:0 channelID="x-ID.57" tvg-chno="1057" tvg-name="Grio" tvg-id="1057" tvg-logo="" group-title="HDHomeRUN",Grio
+http://sonictv.playsupport.live/stream/485a585daf18e4cce73a4d91732eed0b
+#EXTINF:0 channelID="x-ID.58" tvg-chno="1058" tvg-name="ThisTV" tvg-id="1058" tvg-logo="" group-title="HDHomeRUN",ThisTV
+http://sonictv.playsupport.live/stream/779ce3f512be92cbce31eee4c75b9221
+#EXTINF:0 channelID="x-ID.59" tvg-chno="1059" tvg-name="HSN2" tvg-id="1059" tvg-logo="" group-title="HDHomeRUN",HSN2
+http://sonictv.playsupport.live/stream/0429cc6c3bcfe9ceb53f5fa4f1a98ab3
+#EXTINF:0 channelID="x-ID.60" tvg-chno="1060" tvg-name="WHUT" tvg-id="1060" tvg-logo="" group-title="HDHomeRUN",WHUT
+http://sonictv.playsupport.live/stream/70e8fbeb44213b92e112aec774fc4038
+#EXTINF:0 channelID="x-ID.61" tvg-chno="1061" tvg-name="PBSKids" tvg-id="1061" tvg-logo="" group-title="HDHomeRUN",PBSKids
+http://sonictv.playsupport.live/stream/be818e51a8d815f5f1893931da280f9b
+#EXTINF:0 channelID="x-ID.62" tvg-chno="1062" tvg-name="WZDC" tvg-id="1062" tvg-logo="" group-title="HDHomeRUN",WZDC
+http://sonictv.playsupport.live/stream/ed8debb1d7eccd1dfa6fd9d502bcc7a6
+#EXTINF:0 channelID="x-ID.63" tvg-chno="1063" tvg-name="XITOS" tvg-id="1063" tvg-logo="" group-title="HDHomeRUN",XITOS
+http://sonictv.playsupport.live/stream/32d4a03b44b681711e5c55dbf628d143
+#EXTINF:0 channelID="x-ID.64" tvg-chno="1064" tvg-name="WBFF45" tvg-id="1064" tvg-logo="" group-title="HDHomeRUN",WBFF45
+http://sonictv.playsupport.live/stream/07e1dfe09e8cee2667654bee0b401e2f
+#EXTINF:0 channelID="x-ID.65" tvg-chno="1065" tvg-name="MyTV" tvg-id="1065" tvg-logo="" group-title="HDHomeRUN",MyTV
+http://sonictv.playsupport.live/stream/f919bd7c4f12959507550fb4898b3ce0
+#EXTINF:0 channelID="x-ID.66" tvg-chno="1066" tvg-name="Charge!" tvg-id="1066" tvg-logo="" group-title="HDHomeRUN",Charge!
+http://sonictv.playsupport.live/stream/bdb2865234e90ca7ccb95930220acbd2
+#EXTINF:0 channelID="x-ID.67" tvg-chno="1067" tvg-name="LATV" tvg-id="1067" tvg-logo="" group-title="HDHomeRUN",LATV
+http://sonictv.playsupport.live/stream/6e2f8a4863202f3703f898f69b1e1352
+#EXTINF:0 channelID="x-ID.68" tvg-chno="1068" tvg-name="MeTV" tvg-id="1068" tvg-logo="" group-title="HDHomeRUN",MeTV
+http://sonictv.playsupport.live/stream/2e49f5892ba423470c1fddf2d104c3a2
+#EXTINF:0 channelID="x-ID.69" tvg-chno="1069" tvg-name="STORY" tvg-id="1069" tvg-logo="" group-title="HDHomeRUN",STORY
+http://sonictv.playsupport.live/stream/ec0462aa99d726ff39d436de0bf1d6c9
+#EXTINF:0 channelID="x-ID.70" tvg-chno="1070" tvg-name="CATCHY" tvg-id="1070" tvg-logo="" group-title="HDHomeRUN",CATCHY
+http://sonictv.playsupport.live/stream/2f3f1193d21582f7a6262b87956d70fb
+#EXTINF:0 channelID="x-ID.71" tvg-chno="1071" tvg-name="MeTV+" tvg-id="1071" tvg-logo="" group-title="HDHomeRUN",MeTV+
+http://sonictv.playsupport.live/stream/37dc29abb4795da6065138f37b6ab2ed
+#EXTINF:0 channelID="x-ID.72" tvg-chno="1072" tvg-name="EMLW" tvg-id="1072" tvg-logo="" group-title="HDHomeRUN",EMLW
+http://sonictv.playsupport.live/stream/b061d2d4752721f0a9eceac6f5d3d7a5
+#EXTINF:0 channelID="x-ID.73" tvg-chno="1073" tvg-name="DABL" tvg-id="1073" tvg-logo="" group-title="HDHomeRUN",DABL
+http://sonictv.playsupport.live/stream/edd647c9511b8d0e1ec650155619ca6c
+#EXTINF:0 channelID="x-ID.74" tvg-chno="1074" tvg-name="QVC2" tvg-id="1074" tvg-logo="" group-title="HDHomeRUN",QVC2
+http://sonictv.playsupport.live/stream/5bbced080031636de3d93a2aba6e2414
+#EXTINF:0 channelID="x-ID.75" tvg-chno="1075" tvg-name="NTDTV" tvg-id="1075" tvg-logo="" group-title="HDHomeRUN",NTDTV
+http://sonictv.playsupport.live/stream/3977d5a02eb391077b3b2a4e28f01805
+#EXTINF:0 channelID="x-ID.76" tvg-chno="1076" tvg-name="SonLife" tvg-id="1076" tvg-logo="" group-title="HDHomeRUN",SonLife
+http://sonictv.playsupport.live/stream/1e11a4bcda4fc15e726abcfb554ddd33
+#EXTINF:0 channelID="x-ID.77" tvg-chno="1077" tvg-name="ShopLC" tvg-id="1077" tvg-logo="" group-title="HDHomeRUN",ShopLC
+http://sonictv.playsupport.live/stream/2ba2fe15f771c1bcb93c5f920cacbd8f
+#EXTINF:0 channelID="x-ID.78" tvg-chno="1078" tvg-name="WDCW-DT" tvg-id="1078" tvg-logo="" group-title="HDHomeRUN",WDCW-DT
+http://sonictv.playsupport.live/stream/7c8a2c4dd6738282baa46e7b46fca99c
+#EXTINF:0 channelID="x-ID.79" tvg-chno="1079" tvg-name="Antenna" tvg-id="1079" tvg-logo="" group-title="HDHomeRUN",Antenna
+http://sonictv.playsupport.live/stream/2b69646c08f247e1f3139ed3a302dda9
+#EXTINF:0 channelID="x-ID.80" tvg-chno="1080" tvg-name="CWWNUV" tvg-id="1080" tvg-logo="" group-title="HDHomeRUN",CWWNUV
+http://sonictv.playsupport.live/stream/6190047a16786a05a43ed6f4d4684c09
+#EXTINF:0 channelID="x-ID.81" tvg-chno="1081" tvg-name="Antenna" tvg-id="1081" tvg-logo="" group-title="HDHomeRUN",Antenna
+http://sonictv.playsupport.live/stream/2b69646c08f247e1f3139ed3a302dda9
+#EXTINF:0 channelID="x-ID.82" tvg-chno="1082" tvg-name="Comet" tvg-id="1082" tvg-logo="" group-title="HDHomeRUN",Comet
+http://sonictv.playsupport.live/stream/4370acab5a0f9e0a326fa32eebe56ab1
+#EXTINF:0 channelID="x-ID.83" tvg-chno="1083" tvg-name="Stadium" tvg-id="1083" tvg-logo="" group-title="HDHomeRUN",Stadium
+http://sonictv.playsupport.live/stream/31ce9e3d98111a118aa52cd20d9a6436
+#EXTINF:0 channelID="x-ID.84" tvg-chno="1084" tvg-name="ION" tvg-id="1084" tvg-logo="" group-title="HDHomeRUN",ION
+http://sonictv.playsupport.live/stream/385c4fec74037dc054f8b2711ccd7a66
+#EXTINF:0 channelID="x-ID.85" tvg-chno="1085" tvg-name="Bounce" tvg-id="1085" tvg-logo="" group-title="HDHomeRUN",Bounce
+http://sonictv.playsupport.live/stream/b99a01188f1384202e2df81f81667942
+#EXTINF:0 channelID="x-ID.86" tvg-chno="1086" tvg-name="CourtTV" tvg-id="1086" tvg-logo="" group-title="HDHomeRUN",CourtTV
+http://sonictv.playsupport.live/stream/23d19454e58e34993e4da41b80510c12
+#EXTINF:0 channelID="x-ID.87" tvg-chno="1087" tvg-name="Laff" tvg-id="1087" tvg-logo="" group-title="HDHomeRUN",Laff
+http://sonictv.playsupport.live/stream/be6ba1ac9d89a83977df91c7dc9696f1
+#EXTINF:0 channelID="x-ID.88" tvg-chno="1088" tvg-name="Mystery" tvg-id="1088" tvg-logo="" group-title="HDHomeRUN",Mystery
+http://sonictv.playsupport.live/stream/e529cde5207cc574044adea5ed044dff
+#EXTINF:0 channelID="x-ID.89" tvg-chno="1089" tvg-name="SCRIPPS" tvg-id="1089" tvg-logo="" group-title="HDHomeRUN",SCRIPPS
+http://sonictv.playsupport.live/stream/fde0b0f6bfc96120162e5a0dfd6d13d9
+#EXTINF:0 channelID="x-ID.90" tvg-chno="1090" tvg-name="Jewelry" tvg-id="1090" tvg-logo="" group-title="HDHomeRUN",Jewelry
+http://sonictv.playsupport.live/stream/a170705289761e4d39a805e5d2d01f14
+#EXTINF:0 channelID="x-ID.91" tvg-chno="1091" tvg-name="HSN" tvg-id="1091" tvg-logo="" group-title="HDHomeRUN",HSN
+http://sonictv.playsupport.live/stream/84abf4d125f2bdf87de2b068ff5d13ae
+#EXTINF:0 channelID="x-ID.92" tvg-chno="1092" tvg-name="Entra" tvg-id="1092" tvg-logo="" group-title="HDHomeRUN",Entra
+http://sonictv.playsupport.live/stream/f1b29a72e5c46131a1858d17ac53d952
